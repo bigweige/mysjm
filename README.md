@@ -1,6 +1,8 @@
-# mysjm
-自己写的“围住神经猫”的小游戏，浏览器打开MyCat.html即可运行。
-
+# mysjm 围住神经猫
+2015年自己(闲着蛋疼)写的“围住神经猫”的小游戏，现在开源出来，下载解压后浏览器打开MyCat.html即可运行。
+主要是为了练习搜索算法，主要逻辑在app9.js中的findPath和getLowestCostAndDirection两个函数中。
+# 动态截图
+![shenjingmao.gif](https://i.loli.net/2020/06/22/oJkGh3qWsiHrS9A.gif)
 # 游戏说明：
 1. 游戏初始化时神经猫处于最中间，位置为绿色，随机产生的围墙为橙色。
 没有被围住的区域为灰色，游戏就是点击灰色区域产生围墙（灰色变橙色），
